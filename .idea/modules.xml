@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/estate-platform.iml" filepath="$PROJECT_DIR$/estate-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estate-platform-core/estate-platform-core.iml" filepath="$PROJECT_DIR$/estate-platform-core/estate-platform-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estate-platform-web/estate-platform-web.iml" filepath="$PROJECT_DIR$/estate-platform-web/estate-platform-web.iml" />
+    </modules>
+  </component>
+</project>
